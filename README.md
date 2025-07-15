@@ -2,7 +2,7 @@
 
 My name is Roneet, and I am currently a Third Year CS student @ Wilfrid Laurier University
 
-- 🔭 I’m currently building AITutorFlow, an AI-driven flowchart tool that helps beginners learn programming logic and syntax visually.
+- 🔭 I’m currently building AITutorFlow, an AI-driven flowchart tool that helps beginners learn programming logic and syntax   visually.
 - 👯 I’m looking to collaborate on AI projects, especially with LLMs or machine learning. Excited to learn, build, and explore what’s possible!
 - 📫 How to reach me: Email me at roneettopiwala@gmail.com
 - 😄 Pronouns: He/Him
