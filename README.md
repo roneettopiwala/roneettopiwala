@@ -4,8 +4,8 @@ My name is Roneet, and I am currently a Third Year CS student @ Wilfrid Laurier 
 
 - 👯 I’m looking to collaborate on AI projects, especially with LLMs or machine learning. Excited to learn, build, and explore what’s possible!
 - 📫 How to reach me: Email me at roneettopiwala@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am left-handed in writing!
+
+
 
 <!--
 **roneettopiwala/roneettopiwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
