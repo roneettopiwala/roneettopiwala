@@ -1,10 +1,18 @@
-## Hi there 👋
 
-My name is Roneet, and I am currently a Third Year CS student @ Wilfrid Laurier University
+## Hi, I'm Roneet 👋
 
-- 👯 I’m looking to collaborate on AI projects, especially with LLMs or machine learning. Excited to learn, build, and explore what’s possible!
-- 📫 How to reach me: Email me at roneettopiwala@gmail.com
+- 4th year CS @ Wilfrid Laurier University
+- Incoming AI Engineer @ Fidelity
+- Previously: Architecture + ML DevOps @ Fidelity, ML Research Assistant @ WLU
 
+**Projects**
+- **[Relay](link)**: distributed task scheduler with an MCP server, in Go
+- **[Ward](link)**: Toronto city simulation with AI resident personas
+- **[Lumina](link)**: semantic photo search with embeddings
+- **[Trace](link)**: recruiter outreach automation
+- **[MedCareAI](link)**: AI health decision support 🏆 Best AI Project @ McHacks
+
+📫 [Email](mailto:roneettopiwala@gmail.com) · [LinkedIn](link)
 
 
 <!--
