@@ -2,7 +2,7 @@
 ## Hi, I'm Roneet 👋
 
 - 4th year CS @ Wilfrid Laurier University
-- Incoming AI Engineer @ Fidelity
+- Incoming AI Engineer @ Fidelity (Winter 2027)
 - Previously: Architecture + ML DevOps @ Fidelity, ML Research Assistant @ WLU
 
 📫 [Email](mailto:roneettopiwala@gmail.com) · [LinkedIn](link)
