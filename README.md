@@ -5,13 +5,6 @@
 - Incoming AI Engineer @ Fidelity
 - Previously: Architecture + ML DevOps @ Fidelity, ML Research Assistant @ WLU
 
-**Projects**
-- **[Relay](link)**: distributed task scheduler with an MCP server, in Go
-- **[Ward](link)**: Toronto city simulation with AI resident personas
-- **[Lumina](link)**: semantic photo search with embeddings
-- **[Trace](link)**: recruiter outreach automation
-- **[MedCareAI](link)**: AI health decision support 🏆 Best AI Project @ McHacks
-
 📫 [Email](mailto:roneettopiwala@gmail.com) · [LinkedIn](link)
 
 
