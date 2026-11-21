@@ -5,7 +5,7 @@
 - Incoming AI Engineer @ Fidelity (Winter 2027)
 - Previously: Architecture + ML DevOps @ Fidelity, ML Research Assistant @ WLU
 
-📫 [Email](mailto:roneettopiwala@gmail.com) · [LinkedIn](link)
+📫 [Email](mailto:roneettopiwala@gmail.com) · [LinkedIn](https://www.linkedin.com/in/roneet-topiwala/)
 
 
 <!--
