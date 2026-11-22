@@ -4,6 +4,7 @@
 - 4th year CS @ Wilfrid Laurier University
 - Incoming AI Engineer @ Fidelity (Winter 2027)
 - Previously: Architecture + ML DevOps @ Fidelity, ML Research Assistant @ WLU
+- Learn more about me @ [roneettopi.x](https://roneettopi.xyz/)
 
 📫 [Email](mailto:roneettopiwala@gmail.com) · [LinkedIn](https://www.linkedin.com/in/roneet-topiwala/)
 
